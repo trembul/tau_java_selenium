@@ -13,7 +13,7 @@ public class BaseTests {
         driver = new ChromeDriver();
         driver.get("https://the-internet.herokuapp.com/");
         System.out.println(driver.getTitle());
-        driver.manage().window().setSize(new Dimension(580,545));
+        driver.manage().window().setSize(new Dimension(89,588845));
         driver.quit();
     }
 
