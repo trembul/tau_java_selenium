@@ -44,5 +44,10 @@ public class HomePage {
         return new HorizontalSliderPage(driver);
     }
 
+    public JavaScriptAlertsPage clickJavaScriptAlerts(){
+        clickLink("JavaScript Alerts");
+        return new JavaScriptAlertsPage(driver);
+    }
+
 
 }
