@@ -1,5 +1,13 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-Q
-!src/test/java/base/BaseTests.java,1\9\19f149529b2bd71032174e3d2f902a3b73e927fc
+[
++src/main/java/pages/ForgotPasswordPage.java,3\b\3b424da02af2dbd58da3ce4b83fdc86c7d6c4eac
+V
+&src/main/java/pages/EmailSentPage.java,8\4\84093fc5ee31d54d18f374ab96c0c56de4f0c48b
+R
+"src/main/java/pages/LoginPage.java,4\b\4bdc7fe650a4170fd3332cdfc4dca51f7507f98b
+U
+%src/main/java/pages/DropdownPage.java,2\f\2fef3dd0e54bbc03f744579bf30e89f3fd66994c
+a
+1src/test/java/password/RetrievePasswordTests.java,d\1\d19f614ebddbe17cd6ca6ac0d185a97e410e6047
