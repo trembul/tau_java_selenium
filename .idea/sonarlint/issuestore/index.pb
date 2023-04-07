@@ -17,3 +17,7 @@ W
 'src/main/java/pages/KeyPressesPage.java,4\b\4be6cffeccc5304611600a746a25c5cef381b4bb
 Q
 !src/test/java/keys/KeysTests.java,a\d\ad62392d4fed75bc68550e87a1e8e30dd2b09465
+S
+#src/main/java/pages/HoversPage.java,e\2\e29a94d70911793495bd816e9fa8b4ee1395679b
+]
+-src/main/java/pages/HorizontalSliderPage.java,2\0\2088df7b6d8ce8739d5028751ee9be54033a3290
