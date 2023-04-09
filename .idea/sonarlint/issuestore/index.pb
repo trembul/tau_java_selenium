@@ -21,3 +21,7 @@ S
 #src/main/java/pages/HoversPage.java,e\2\e29a94d70911793495bd816e9fa8b4ee1395679b
 ]
 -src/main/java/pages/HorizontalSliderPage.java,2\0\2088df7b6d8ce8739d5028751ee9be54033a3290
+Y
+)src/test/java/alerts/FileUploadTests.java,1\4\148ee20939b4dc053cfcb4ad763d3bfcb3600a60
+U
+%src/test/java/slider/SliderTests.java,5\8\58bc4043408cfd2db179f88a0f55c0e308248f58
