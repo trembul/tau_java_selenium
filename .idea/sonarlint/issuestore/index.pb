@@ -15,8 +15,6 @@ W
 'src/main/java/pages/SecureAreaPage.java,7\e\7e9ea41289e5d3185d869c5abf42d085354a243f
 W
 'src/main/java/pages/KeyPressesPage.java,4\b\4be6cffeccc5304611600a746a25c5cef381b4bb
-Q
-!src/test/java/keys/KeysTests.java,a\d\ad62392d4fed75bc68550e87a1e8e30dd2b09465
 S
 #src/main/java/pages/HoversPage.java,e\2\e29a94d70911793495bd816e9fa8b4ee1395679b
 ]

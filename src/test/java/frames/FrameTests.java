@@ -21,4 +21,13 @@ public class FrameTests extends BaseTests {
         editorPage.sendText(text2);
         assertEquals(editorPage.getTextFromIframe(), text1 + text2, "Incorrect text");
     }
+
+    @Test
+    public void testFramesText(){
+        var nestedPage = homePage.clickFrames().clickNestedFrames();
+        String leftFrameText = nestedPage.getLeftFrameText();
+        String bottomFrameText = nestedPage.getBottomFrameText();
+        assertEquals(leftFrameText, "LEFT", "Incorrect frame text");
+        assertEquals(bottomFrameText, "BOTTOM", "Incorrect frame text");
+    }
 }
