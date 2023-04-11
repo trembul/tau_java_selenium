@@ -23,3 +23,13 @@ Y
 )src/test/java/alerts/FileUploadTests.java,1\4\148ee20939b4dc053cfcb4ad763d3bfcb3600a60
 U
 %src/test/java/slider/SliderTests.java,5\8\58bc4043408cfd2db179f88a0f55c0e308248f58
+W
+'src/main/java/pages/FileUploadPage.java,3\4\34072ae467fdffab1e5dadd466f9256c82ec7b04
+X
+(src/main/java/pages/ContextMenuPage.java,a\b\abd1a4d39d556ae0eeacc8f0921555ee280c62f9
+]
+-src/main/java/pages/JavaScriptAlertsPage.java,9\0\902c9683c31f2356f8dd2024fafa6c1afa3a63da
+T
+$src/test/java/alerts/AlertTests.java,9\8\9808cf1a2358f80c911cf5168ea5f0bf3783cc16
+Z
+*src/test/java/alerts/ContextMenuTests.java,4\c\4c92211a5d39c431de34cb40c5d69ecabf68626f
