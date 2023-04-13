@@ -22,6 +22,6 @@ public class DynamicLoadingExample2Page {
     public void clickStartButton(){
         driver.findElement(startButton).click();
         WebDriverWait wait = new WebDriverWait(driver, 5);
-        wait.until(ExpectedConditions.visibilityOf(driver.findElement(loadedText)));
+        wait.until(ExpectedConditions.presenceOfElementLocated(loadedText));
     }
 }
