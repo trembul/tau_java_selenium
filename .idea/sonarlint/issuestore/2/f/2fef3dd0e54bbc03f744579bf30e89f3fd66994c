@@ -1,5 +1,0 @@
-
-m
-java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Œ¶£µþÿÿÿÿ
-[
-java:S1612"@Replace this lambda with method reference 'WebElement::getText'.(Œ¶£µþÿÿÿÿ

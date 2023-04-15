@@ -7,8 +7,6 @@ V
 &src/main/java/pages/EmailSentPage.java,8\4\84093fc5ee31d54d18f374ab96c0c56de4f0c48b
 R
 "src/main/java/pages/LoginPage.java,4\b\4bdc7fe650a4170fd3332cdfc4dca51f7507f98b
-U
-%src/main/java/pages/DropdownPage.java,2\f\2fef3dd0e54bbc03f744579bf30e89f3fd66994c
 a
 1src/test/java/password/RetrievePasswordTests.java,d\1\d19f614ebddbe17cd6ca6ac0d185a97e410e6047
 W
@@ -27,9 +25,9 @@ W
 'src/main/java/pages/FileUploadPage.java,3\4\34072ae467fdffab1e5dadd466f9256c82ec7b04
 X
 (src/main/java/pages/ContextMenuPage.java,a\b\abd1a4d39d556ae0eeacc8f0921555ee280c62f9
-]
--src/main/java/pages/JavaScriptAlertsPage.java,9\0\902c9683c31f2356f8dd2024fafa6c1afa3a63da
-T
-$src/test/java/alerts/AlertTests.java,9\8\9808cf1a2358f80c911cf5168ea5f0bf3783cc16
 Z
 *src/test/java/alerts/ContextMenuTests.java,4\c\4c92211a5d39c431de34cb40c5d69ecabf68626f
+T
+$src/test/java/frames/FrameTests.java,3\6\36a2c74e426f667246bb688f1e4a086754a867bb
+Q
+!src/test/java/keys/KeysTests.java,a\d\ad62392d4fed75bc68550e87a1e8e30dd2b09465
