@@ -24,4 +24,9 @@ public class DynamicLoadingExample2Page {
         WebDriverWait wait = new WebDriverWait(driver, 5);
         wait.until(ExpectedConditions.presenceOfElementLocated(loadedText));
     }
+
+    public boolean checkStartButton() {
+        driver.findElement(startButton).isDisplayed();
+        return true;
+    }
 }

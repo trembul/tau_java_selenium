@@ -2,6 +2,8 @@ package utils;
 
 import org.openqa.selenium.WebDriver;
 
+import java.util.ArrayList;
+
 public class WindowManager {
 
     private WebDriver driver;
@@ -46,5 +48,10 @@ public class WindowManager {
                 break;
             }
         }
+    }
+
+    public void switchToTabFromList(int index){
+        ArrayList<String> tab = new ArrayList<>(driver.getWindowHandles());
+        driver.switchTo().window(tab.get(index));
     }
 }
