@@ -11,14 +11,10 @@ a
 1src/test/java/password/RetrievePasswordTests.java,d\1\d19f614ebddbe17cd6ca6ac0d185a97e410e6047
 W
 'src/main/java/pages/SecureAreaPage.java,7\e\7e9ea41289e5d3185d869c5abf42d085354a243f
-W
-'src/main/java/pages/KeyPressesPage.java,4\b\4be6cffeccc5304611600a746a25c5cef381b4bb
 S
 #src/main/java/pages/HoversPage.java,e\2\e29a94d70911793495bd816e9fa8b4ee1395679b
 ]
 -src/main/java/pages/HorizontalSliderPage.java,2\0\2088df7b6d8ce8739d5028751ee9be54033a3290
-Y
-)src/test/java/alerts/FileUploadTests.java,1\4\148ee20939b4dc053cfcb4ad763d3bfcb3600a60
 U
 %src/test/java/slider/SliderTests.java,5\8\58bc4043408cfd2db179f88a0f55c0e308248f58
 W
@@ -31,3 +27,9 @@ T
 $src/test/java/frames/FrameTests.java,3\6\36a2c74e426f667246bb688f1e4a086754a867bb
 Q
 !src/test/java/keys/KeysTests.java,a\d\ad62392d4fed75bc68550e87a1e8e30dd2b09465
+[
++src/main/java/pages/DynamicLoadingPage.java,d\d\dd15740d7a40548b43b88d309a9c1db0c34b26b5
+c
+3src/main/java/pages/DynamicLoadingExample1Page.java,2\d\2d875af8f32831c33077c7452bd29584c74dc4c2
+[
++src/main/java/pages/InfiniteScrollPage.java,b\e\be7abcf07411adeef8d062758f1c0e5f635e0bf4
